@@ -21,7 +21,12 @@ function pressIt(){
   });
 }
 
-function 
+function submitIt(){
+  
+  
+  
+  
+}
 
 
 
