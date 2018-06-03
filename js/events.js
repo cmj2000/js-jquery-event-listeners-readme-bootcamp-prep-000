@@ -2,7 +2,7 @@
 
 function getIt(){
   $('p').on("click", function(){
-    
+    alert('Hey');
 });
   
 }
@@ -11,5 +11,8 @@ function getIt(){
 $(document).ready(function(){
 
 // call functions here
+getIt()
+
+
 
 });
